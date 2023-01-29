@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+}
+
+.title {
+  margin-bottom:6vh;
+  padding-top:3rem;
+  color:white;
+  text-shadow: 2px 2px 2px #5643CC;
+  font-size: 3rem;
+}
+
